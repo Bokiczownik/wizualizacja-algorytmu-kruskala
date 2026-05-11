@@ -1,0 +1,5 @@
+C:\Users\Boki\Desktop\plik\g\Wizualizacja_algorytmu_kruskala.exe
+C:\Users\Boki\Desktop\plik\g\Wizualizacja_algorytmu_kruskala.dll
+C:\Users\Boki\Desktop\plik\g\Wizualizacja_algorytmu_kruskala.deps.json
+C:\Users\Boki\Desktop\plik\g\Wizualizacja_algorytmu_kruskala.runtimeconfig.json
+C:\Users\Boki\Desktop\plik\g\Wizualizacja_algorytmu_kruskala.pdb

@@ -1,0 +1,17 @@
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\bin\Release\net8.0-windows\Wizualizacja_algorytmu_kruskala.exe
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\bin\Release\net8.0-windows\Wizualizacja_algorytmu_kruskala.deps.json
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\bin\Release\net8.0-windows\Wizualizacja_algorytmu_kruskala.runtimeconfig.json
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\bin\Release\net8.0-windows\Wizualizacja_algorytmu_kruskala.dll
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\bin\Release\net8.0-windows\Wizualizacja_algorytmu_kruskala.pdb
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\obj\Release\net8.0-windows\projekt2algorytmy.Form1.resources
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\obj\Release\net8.0-windows\projekt2algorytmy.FormPolacz.resources
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\obj\Release\net8.0-windows\Wizualizacja_algorytmu_kruskala.csproj.GenerateResource.cache
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\obj\Release\net8.0-windows\Wizualizacja_algorytmu_kruskala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\obj\Release\net8.0-windows\Wizualizacja_algorytmu_kruskala.AssemblyInfoInputs.cache
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\obj\Release\net8.0-windows\Wizualizacja_algorytmu_kruskala.AssemblyInfo.cs
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\obj\Release\net8.0-windows\Wizualizacja_algorytmu_kruskala.csproj.CoreCompileInputs.cache
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\obj\Release\net8.0-windows\Wizualizacja_algorytmu_kruskala.dll
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\obj\Release\net8.0-windows\refint\Wizualizacja_algorytmu_kruskala.dll
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\obj\Release\net8.0-windows\Wizualizacja_algorytmu_kruskala.pdb
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\obj\Release\net8.0-windows\Wizualizacja_algorytmu_kruskala.genruntimeconfig.cache
+C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\obj\Release\net8.0-windows\ref\Wizualizacja_algorytmu_kruskala.dll
