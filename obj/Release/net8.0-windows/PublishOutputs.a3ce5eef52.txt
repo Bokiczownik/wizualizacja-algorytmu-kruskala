@@ -1,5 +1,0 @@
-C:\Users\Boki\Downloads\projekt2algorytmy.exe
-C:\Users\Boki\Downloads\projekt2algorytmy.dll
-C:\Users\Boki\Downloads\projekt2algorytmy.deps.json
-C:\Users\Boki\Downloads\projekt2algorytmy.runtimeconfig.json
-C:\Users\Boki\Downloads\projekt2algorytmy.pdb

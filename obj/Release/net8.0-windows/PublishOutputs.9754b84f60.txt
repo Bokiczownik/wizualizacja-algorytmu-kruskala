@@ -1,5 +1,0 @@
-C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\bin\Release\net8.0-windows\publish\projekt2algorytmy.exe
-C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\bin\Release\net8.0-windows\publish\projekt2algorytmy.dll
-C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\bin\Release\net8.0-windows\publish\projekt2algorytmy.deps.json
-C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\bin\Release\net8.0-windows\publish\projekt2algorytmy.runtimeconfig.json
-C:\Users\Boki\source\repos\projekt2algorytmy\projekt2algorytmy\bin\Release\net8.0-windows\publish\projekt2algorytmy.pdb
