@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Wizualizacja_algorytmu_kruskala/1.0.0": {
+        "runtime": {
+          "Wizualizacja_algorytmu_kruskala.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wizualizacja_algorytmu_kruskala/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
