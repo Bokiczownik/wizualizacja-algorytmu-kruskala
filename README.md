@@ -1,2 +1,2 @@
-# mst-kruskal-visualizer
-Interactive visualization of Kruskal’s algorithm for finding a Minimum Spanning Tree in a weighted graph.
+# wizualizacja-algorytmu-kruskala
+Wizualizacja algorytmu Kruskala dla grafów ważonych z interaktywną reprezentacją graficzną.
